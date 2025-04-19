@@ -1,2 +1,2 @@
 ##### Application Tools
-Tableau, PowerBI, MS SQL
+- Tableau, PowerBI, MS SQL
